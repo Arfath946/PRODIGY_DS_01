@@ -1,4 +1,5 @@
 PRODIGY_DS_01 - Population Data Visualization
+Data Science Intern - Prodigy Infotech
 
 Overview
 
@@ -39,13 +40,3 @@ The visualization provides insights into population distribution and helps ident
 Author
 
 Arfath P
-
-Data Science Intern - Prodigy Infotech
-
-GitHub:https://github.com/Arfath946/PRODIGY_DS_01
-
-Internship
-
-Prodigy Infotech - Data Science Internship
-
-Task 01: Data Visualization
